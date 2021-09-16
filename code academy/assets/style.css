@@ -1,0 +1,56 @@
+*{
+    margin-left: 20px;
+}
+
+.text1 {
+    font-size: 35px ;
+    margin-left: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text2 {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 40px;
+    font-size: 35px;
+}
+
+body{
+    background: whitesmoke;
+}
+
+.benefits p {
+    font-size: larger;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.wrapper{
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);   
+}
+
+
+.first, .second, .third, .fourth{
+    margin-left: 250px;
+    margin-top: -160px;
+    
+}
+
+.wrapper img{
+    width: 193px;
+    height: 193px;
+}
+
+.wrapper p {
+    font-size: larger;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.c1, .c2, .c3, .c4 {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
